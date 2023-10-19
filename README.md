@@ -1,8 +1,6 @@
 <h1 align="center">Hola, soy Jorge A. Martinez también conocido como MrDeckMacc</h1>
 <h3 align="center">Soy un apasionado con la animación 3d y el diseño de frontend</h3>
 
-![Presentacion](https://github.com/MrDeckMacc/MrDeckMacc/assets/101608227/716c3807-7cd5-41b2-958a-6b5da0eeda4f)
-
 - 🌱 Actualmente estoy estudiando **una carrera de ingeniería en software y tecnologías emergentes**
 
 - 📫 Puedes contactarme directamente por aqui **jorgealejandromartinez504@gmail.com**
